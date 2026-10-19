@@ -24,3 +24,9 @@ The `lessonloom.svg` wallpaper is original. Lessonloom OS is an independent Ubun
 
 See [FEATURES.md](FEATURES.md) for three local tools included for teaching and lesson planning.
 
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
